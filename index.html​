@@ -14,8 +14,13 @@
         <h3 style="color:blue">
 			Sofi viva argentina y los biscochitos 9 de oro
 		</h3>
-         <h4>
-			Sofi se va para argentina y albert se queda friendo churros
-		</h4>
+		<div style="background-color:grey">
+	         <h4 style="color:white">
+				Sofi se va para argentina y albert se queda friendo churros
+			</h4>
+			<button>
+				ENVIAR
+			</button>
+		</div>
 	</body>
 </html>
