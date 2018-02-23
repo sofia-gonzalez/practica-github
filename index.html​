@@ -4,7 +4,7 @@
 		<title>Título de la página</title>
 	</head>
 	<body>
-		Cuerpo de la página.
+		<h1 style="color:GREEN">CLASE FRONT END</hi>
 		<h1 style="color:red">
 			Menu
 		</h1>
@@ -14,6 +14,12 @@
 			</li>
 			<li>
 				Noticias
+			</li>
+            <li>
+				<strong> Articulos </strong>
+			</li>
+			<li>
+			Contacto
 			</li>
 		</ul>
         <h2>
